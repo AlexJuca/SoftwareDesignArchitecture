@@ -5,4 +5,4 @@ The game creates a map in which the player can move through vertically or horizo
 or coordinates. The player is limited to moving in any one of four directions until he finds the space treasure. Along the way the player may land
 on traps and have his health deducted from. Healthpacks are available. 
      
-Patterns used are Factory, Strategy and Composition
+Patterns used are Factory, Strategy, Singleton and Composition
